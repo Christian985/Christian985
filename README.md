@@ -2,6 +2,9 @@
 
 ![Christian Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian985&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian985&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Christian Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Christian985&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian985&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que eu uso no meu dia
 
